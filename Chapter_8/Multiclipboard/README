@@ -1,0 +1,5 @@
+Here what program does:
+-   The command line argument for the keyword is checked.
+-   If argument is 'save', then clipboard contents are saved to the keyword.
+-   If the argument is 'list', then all the keywords are copied to the clipboard.
+-   Otherwise, the text for the keyword is copied to the keyboard.

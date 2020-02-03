@@ -1,0 +1,18 @@
+"Filling in the Gap" project is interesting problem
+i haven't wrapped my mind around it yet
+it is possible to use lexicographical order to sort file names
+- but how to measure a gap between them and increment lowest possible?
+   - what is lowest possible sign is another question?
+
+file_names = ['spam001', 'spam0001', 'spam01']
+the lowest is 'spam0001' (i.e. file_names[1])
+
+so the other files should be renamed such as:
+'spam001' or 'spam01' in 'spam0002' etc.
+
+or if and only if files have number part in it
+like ['spam001','spam027','spam0013', 'spam013']
+should length of number part be the same?
+there is 4 files and gap (max-min) is 027 - 001 == 26
+so what file to rename first
+should it look like ['spam001', 'spam002','spam003','spam004']?

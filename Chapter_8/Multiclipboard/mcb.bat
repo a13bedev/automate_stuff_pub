@@ -1,0 +1,1 @@
+@ pyw.exe C:\Users\1\PycharmProjects\automate_stuff\Chapter_8\Multiclipboard\mcb.pyw %*

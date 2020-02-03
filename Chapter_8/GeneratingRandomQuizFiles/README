@@ -1,0 +1,8 @@
+Here is what program does:
+    - Creates 35 different quizzes.
+    - Creates 50 multiple-choice questions for each quiz, in random order.
+    - Provides the correct answer and three random wrong answers
+      for each question, in random order.
+    - Writes the quizzes to 35 text files.
+    - Writes answer keys to 35 text files.
+    

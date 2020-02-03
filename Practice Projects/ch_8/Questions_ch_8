@@ -1,0 +1,11 @@
+1)  pyCharm console do not
+    import modules (myCats.py) even if cwd is
+    'C:\\Users\\1\\PycharmProjects\\automate_stuff\\Chapter_8'
+    and module is contained in cwd
+
+    Solve: in project explorer right-click on needed directory.
+    Then select "Mark Directory as" and select "Source Root".
+    Unmark in the same fashion.
+
+
+2)  method to run scripts with batch file does not work.
